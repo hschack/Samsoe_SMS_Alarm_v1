@@ -1,0 +1,3 @@
+Read a bin in a byte From: https://www.arduino.cc/reference/en/
+https://www.arduino.cc/reference/en/language/functions/bits-and-bytes/bitread/
+
